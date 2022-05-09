@@ -15,7 +15,8 @@ namespace SampleGit
         public Form1()
         {
             InitializeComponent();
-            MessageBox.show("haii");
+            MessageBox.Show("haii");
+            //hello;
         }
     }
 }
