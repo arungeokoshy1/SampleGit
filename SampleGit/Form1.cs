@@ -16,7 +16,7 @@ namespace SampleGit
         {
             InitializeComponent();
             MessageBox.Show("Hello World");
-            MessageBox.Show("Hello Hii");
+            MessageBox.Show("Hii");
             //hello;
             //Hello Rohan
         }
